@@ -1,7 +1,45 @@
 # Bitácora
 
 Registro de sesiones del semillero.
-## Sesión 5 2026-05-20
+
+## Sesión 8: 2026-06-18
+
+- **GDG Medellín**
+  - Andrés comparte resumen de la sesión anterior del GDG
+  - Grabaciones disponibles en: https://www.youtube.com/@googledevelopergroupsmedel2070/streams
+  - Próxima sesión: sábado 20 de junio
+  - Más info: https://gdg.community.dev
+
+- **Nicolás (NU) — Integración de IA en Flujos de Trabajo Personal**
+  - Portfolio y metodología de trabajo: https://flizyx.vercel.app/ai
+  - Presentación sobre Hermes Agent y megaprompt como herramientas para estructurar agentes
+  - Sesión grabada con preguntas y respuestas en vivo de los asistentes
+  - Lectura recomendada: https://www.brainonllm.com — enfocado en gestión de sobrecarga cognitiva al trabajar con LLMs
+
+- **Carlos — Gestión de Tokens con OpenRouter**
+  - Experiencia usando OpenRouter como herramienta centralizada para gestionar consumo de tokens en diferentes LLMs
+  - Importancia del monitoreo y optimización en entornos de desarrollo iterativo
+
+- **Profe Edison — Recordatorio Estratégico**
+  - Documentar el proceso de creación de productos con prompts es fundamental para reproducibilidad y transferencia de conocimiento
+  - Mensaje recurrente en el Semillero que debe reflejarse en toda entrega
+
+- **Acuerdo Colectivo: Banco de Tokens para el Semillero**
+  - Crear un repositorio compartido de tokens optimizados y patrones de prompts
+  - Objetivo: aprender colectivamente cómo "minar tokens" de manera eficiente
+  - Documentar estrategias de optimización semántica y compresión de contexto
+  - Funcionará como un activo comunitario que acelera la innovación del grupo
+
+- **Líneas de Investigación Propuestas**
+  - Optimización de token mining aplicando principios de lenguajes sintéticos (como *Caveman English* de Session 6)
+  - Integración de Hermes Agent en la arquitectura del banco de tokens
+  - Estándares de documentación reproducible: registrar prompts con métricas de tokens y resultados obtenidos
+
+- **Tareas y Siguientes Pasos**
+  - [ ] Definir estructura y schema del banco de tokens (formato, metadatos, categorización)
+  - [ ] Establecer contribuciones iniciales de cada miembro
+  - [ ] Versionar banco de tokens en GitHub bitácora
+  - [ ] Revisar https://www.brainonllm.com como referencia conceptual
 
 ## Sesión 7: 2026-06-10
 
